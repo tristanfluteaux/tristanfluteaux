@@ -1,7 +1,5 @@
 ## Hello There 👋
 I am a junior fullstack web dev from Paris
-- 🔭 Working on multiple frontend project using React and Nodejs
-- Creating DataBase and back end with MySql and Express
 <br>
 <br>
 ## Connect with me
@@ -11,6 +9,8 @@ I am a junior fullstack web dev from Paris
 
 <br>
 <br>
+
+
 ## Expertise
 
 
