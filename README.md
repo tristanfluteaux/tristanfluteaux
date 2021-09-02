@@ -1,11 +1,11 @@
-### Hello World 👋
+### Hello There 👋
 I am a junior fullstack web dev from Paris
 - 🔭 Working on multiple frontend project using React and Nodejs
 - Creating DataBase and back end with MySql and Express
 
 <br>
 ## Connect with me
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/tristan-fluteaux/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />] (https://www.linkedin.com/in/tristan-fluteaux/)
 
 <br>
 <br>
