@@ -6,6 +6,7 @@ I am a junior fullstack web dev from Paris
 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tristan-fluteaux/)
+[<img align="left" alt="codewars" src="https://shields.io/badge/-codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" />](https://www.codewars.com/users/tristanfluteaux)
 
 <br>
 <br>
