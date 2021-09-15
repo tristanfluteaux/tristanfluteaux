@@ -8,6 +8,8 @@ I am a junior fullstack web dev from Paris
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tristan-fluteaux/)
 [<img align="left" alt="codewars" src="https://shields.io/badge/-codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" />](https://www.codewars.com/users/tristanfluteaux)
 
+Direct link to my portfolio : https://tristan-fluteaux.netlify.app/
+
 <br>
 <br>
 
@@ -22,6 +24,8 @@ I am a junior fullstack web dev from Paris
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img align="left" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img align="left" alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 
 
 <br>
