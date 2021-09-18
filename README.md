@@ -10,6 +10,9 @@ I am a junior fullstack web dev from Paris
 
 Direct link to my portfolio : https://tristan-fluteaux.netlify.app/
 
+![snorlax-gif](https://user-images.githubusercontent.com/77543277/133894487-c7b36c4d-dd47-44d8-aa16-39432b35dd42.gif)
+
+
 <br>
 <br>
 
