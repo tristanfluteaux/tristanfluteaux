@@ -1,4 +1,4 @@
-## Hello There 👋�♂️
+## Hello There 👋
 I am a junior fullstack web dev from Paris
 <br>
 <br>
