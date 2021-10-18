@@ -1,4 +1,4 @@
-## Hello There 👋👾🧟‍♂️
+## Hello There 👋�♂️
 I am a junior fullstack web dev from Paris
 <br>
 <br>
@@ -17,7 +17,7 @@ I am a junior fullstack web dev from Paris
 <br>
 
 
-## Expertise 🕹️🎮
+## Skills 🕹️🎮
 
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
