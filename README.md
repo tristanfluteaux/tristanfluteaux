@@ -7,8 +7,9 @@ I am a junior fullstack web dev from Paris
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tristan-fluteaux/)
 [<img align="left" alt="codewars" src="https://shields.io/badge/-codewars-B1361E?&style=for-the-badge&logo=codewars&logoColor=white" />](https://www.codewars.com/users/tristanfluteaux)
+[<img align="left" alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />](https://tristan-fluteaux.netlify.app)
 
-Direct link to my portfolio : https://tristan-fluteaux.netlify.app/
+
 
 
 
